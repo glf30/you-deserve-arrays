@@ -17,3 +17,4 @@ This is an exercise for retrieving data from an array. Arrays are great and you 
 5. `firstItemIsNumber.js`: prompts the user for an array then logs out a boolean indicating whether or not the first item in the array is a number
 
 6. `secondCharOfThirdString.js`: prompts the user for an array then logs the second character in the third item in the array. If the third item is not a string, log an error instead
+ 
